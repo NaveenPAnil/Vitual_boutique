@@ -5,6 +5,7 @@ Project Overview
 Virtual Dress Shopping is designed to revolutionize the online shopping experience by enabling customers to try on clothing virtually. Built with Python Django, the platform supports both customer and vendor registrations, complete with email verification. The key feature, Virtual Try, allows users to upload their images and see how different costumes look on them, making the shopping process more interactive and personalized. Additionally, the platform integrates with Razorpay for seamless and secure payment processing.
 
 Features:
+
 Customer and Vendor Registration:
 Secure registration system for both customers and vendors.
 Email verification to ensure authenticity and security.
