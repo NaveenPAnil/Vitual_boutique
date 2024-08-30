@@ -7,18 +7,22 @@ Virtual Dress Shopping is designed to revolutionize the online shopping experien
 Features:
 
 Customer and Vendor Registration:
+
 Secure registration system for both customers and vendors.
 Email verification to ensure authenticity and security.
 
 Virtual Try Feature:
+
 Users can upload their images and virtually try on outfits.
 Provides a realistic preview of how the costume would look on the user.
 
 Razorpay Integration:
+
 Integrated with Razorpay for safe and efficient payment processing.
 Supports multiple payment methods for user convenience.
 
 Usage
+
 Register as a customer or vendor.
 Verify your email address to activate your account.
 As a customer, browse through the catalog and use the Virtual Try feature to see how outfits look on you.
