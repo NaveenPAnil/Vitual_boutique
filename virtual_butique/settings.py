@@ -126,9 +126,9 @@ AUTHENTICATION_BACKENDS = [
 EMAIL_USE_TLS = True
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
-EMAIL_HOST_USER = "naveenpanil2000@gmail.com"
-EMAIL_HOST_PASSWORD = "hhxc mcnz xzdh zrnt"
-DEFAULT_FROM_EMAIL = "Fashion Try<naveenpanil2000@gmail.com>"
+EMAIL_HOST_USER = "*****************"
+EMAIL_HOST_PASSWORD = "*****************"
+DEFAULT_FROM_EMAIL = "Fashion Try*****************"
 ACCOUNT_EMAIL_REQUIRED = True
 ACCOUNT_AUTHENTICATION_METHOD = "email"
 ACCOUNT_EMAIL_VERIFICATION = "mandatory"
@@ -137,6 +137,6 @@ ACCOUNT_CONFIRM_EMAIL_ON_GET = True
 
 #.............. razor pay........
 
-RAZORPAY_KEY_ID = 'rzp_test_ph8QRYjelkn2IR'
-RAZORPAY_KEY_SECRET = 'mKnvgPSejFYwWPZ8bW8HSo2H'
+RAZORPAY_KEY_ID = '*****************'
+RAZORPAY_KEY_SECRET = '*****************'
 
